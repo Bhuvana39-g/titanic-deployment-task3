@@ -1,2 +1,2 @@
-# titanic-deployment-task3
+# Task3  END-TO-END DATA SCIENCE PROJECT FROM DATA COLLECTION AND PREPROCESSING TO MODEL DEPLOYMENT USING FLASK OR FASTAPI
 Titanic survival prediction Flask app for internship task.
