@@ -32,7 +32,7 @@ http://127.0.0.1:5000
 - Embarked: 2 (S)
 
 ## Output
-Prediction: Survived or Did Not Survive
+Prediction: Did Not Survive
 
 Commit new file
 
